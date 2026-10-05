@@ -17,7 +17,7 @@ If you use this code in your research, please cite the following paper:
 ```bibtex
 @article{Neji2024DocAttentiveGAN,
   title   = {Doc-Attentive-GAN: Attentive GAN for historical document denoising},
-  author  = {Neji, Hassen and Ben Halima, Mohamed and Nogueras-Iso, Javier and Hamdani, Tarek M. and Lacasta, Javier and Chabchoub, Hedi and Alimi, Adel M.},
+  author  = {Neji, Hala and Ben Halima, Mohamed and Nogueras-Iso, Javier and Hamdani, Tarek M. and Lacasta, Javier and Chabchoub, Hedi and Alimi, Adel M.},
   journal = {Multimedia Tools and Applications},
   year    = {2024},
   volume  = {83},
